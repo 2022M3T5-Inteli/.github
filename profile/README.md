@@ -1,7 +1,13 @@
 # 🙋‍ 2022.2 - Módulo Modelo Preditivo - Turma 5 - Rede Gazeta
 
+## 🔍 O problema:
+Baixa precisão dos possíveis resultados de novos conteúdos.
+
 ## 🎯 O objetivo:
 O objetivo desse projeto é prever o melhor posicionamento de conteúdo para o seu público.
+
+## 🧩 O público-alvo:
+Telespectadores da Emissora.
 
 ## 💻 Lógica para predição com inteligência artificial:
 
